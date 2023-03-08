@@ -1,4 +1,4 @@
-module github.com/trendy0413puthur/sockv5er
+module github.com/trendy0413/sockv5er
 
 go 1.19
 
